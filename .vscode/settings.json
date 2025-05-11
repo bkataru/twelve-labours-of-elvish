@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.fontLigatures.enabled": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.allowChords": true
+}
