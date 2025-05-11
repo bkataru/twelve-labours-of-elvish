@@ -6,8 +6,6 @@ pkgs.mkShell {
     micro # editor
 
     elvish
-
-    nebula
   ];
 
   shellHook = ''
