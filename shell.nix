@@ -4,6 +4,7 @@ pkgs.mkShell {
   buildInputs = with pkgs; [
     zellij # multiplexer
     micro # editor
+    carapace # shell completionss
 
     elvish
   ];
